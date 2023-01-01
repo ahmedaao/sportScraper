@@ -3,6 +3,8 @@
 This little script scrapes data from this website : https://www.oddsportal.com/basketball/usa/nba/results/
 You can scrape data for each season of nba games (You have to modify the script to scrape other sports)
 
+You can choice the season to scrape with the variable "url"
+
 The script will extract these data : 
 
   - Timestamp
